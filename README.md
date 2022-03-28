@@ -1,4 +1,5 @@
 # RGB-only day-night semantic segmentation using domain adaptation with thermal images
+[img](https://github.com/tue-mps-edu/graduation-project-2020-sonnefred/blob/main/image/multi-head.jpg)
 This repo is a PyTorch implementation for the graduation project related to the multi-head network on domain adaptation task.
 * The folder 'HeatNet' contains the codes for the reproduction work of HeatNet. The files 'train.py', 'test.py' and 'two_stage_train.py' are implemented by ourselves based on the original paper, and 'train.py' is for the training without two-stage strategy. The files 'heatnet_train.py' and 'heatnet_test.py' are implemented according to the code of the original paper, and our results are got from this implementation.
 * The folder 'Siamese' contains the codes for the experiment of the single-head network with maximum squares loss.
