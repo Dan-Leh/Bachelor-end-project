@@ -1,5 +1,5 @@
 """
-This is the code to train and evaluate SH-TSDA, the Single-Head network with Teacher-Student Domain Adaptation.
+This is the code to train and evaluate SH-TSDA, the Single Head network with Teacher-Student Domain Adaptation.
 It is equivalent to the Multi-head network (also with the same pretrained weights), but with only the 'nighttime' head being used for learning and inference.
 
 It was adapted from: https://github.com/tue-mps-edu/graduation-project-2020-sonnefred/blob/main/multi-head/train_dn_v3.py
