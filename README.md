@@ -6,7 +6,7 @@ Abstract—This paper concerns a comparison between adversarial discriminative l
 
 Find the full paper here: https://drive.google.com/file/d/1EP7lXnR_FpxD_dZGG2eo_yoHc1Hj4iAx/view?usp=sharing
 
-The contents of this paper and the code used is adapted from https://github.com/tue-mps-edu/graduation-project-2020-sonnefred.
+The contents of this paper and the code used is based on https://github.com/tue-mps-edu/graduation-project-2020-sonnefred.
 
 The folder "Ensembles" contains
 - "Smallclassifier.ipynb", the code used to train the day/night classifier
