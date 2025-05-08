@@ -1,4 +1,4 @@
-# bep-project-2021-Dan-Leh
+# Bachelor end project 2021 Dan Lehman
 
 This is the repository for my 2022 Bachelor End Project at TU/e.
 
