@@ -4,7 +4,7 @@ This is the repository for my 2022 Bachelor End Project at TU/e.
 
 Abstract—This paper concerns a comparison between adversarial discriminative learning and teacher-student learning to perform unsupervised domain adaptation from daytime to nighttime images. The two different learning approaches were implemented in training on a so-called multi-head network consisting of a shared encoder that learns features for daytime and nighttime images alike and two separate decoders, one for daytime images and one for nighttime images. We found that teacher-student domain adaptation led to an improvement in performance, especially on nighttime images, compared to adver- sarial discriminative domain adaptation. Additionally, we tested various ensemble methods to merge the outputs of our multi-head network’s decoders and found them to not have a major effect on the network’s performance. Lastly, we show that a teacher-student trained single head network that predicts segmentation masks for both day- and nighttime images performed nearly as well as the multi-head network while being simpler to implement and smaller in size.
 
-Find the full paper here: https://drive.google.com/file/d/1EP7lXnR_FpxD_dZGG2eo_yoHc1Hj4iAx/view?usp=sharing
+Find the full paper here: [https://drive.google.com/file/d/19MhpWJcPvhns5TTrIxLrtpIsIR7TylM3/view?usp=sharing]
 
 The contents of this paper and the code used is based on https://github.com/tue-mps-edu/graduation-project-2020-sonnefred.
 
